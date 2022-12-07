@@ -1,0 +1,84 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "bongo",
+	"origin" : "bongo",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 0,
+	"snapshot" : 	{
+		"tog" : 		{
+			"value" : 1.0
+		}
+,
+		"fold" : 		{
+			"value" : 96.0
+		}
+,
+		"fade" : 		{
+			"value" : 43.0
+		}
+,
+		"modIndex" : 		{
+			"value" : 25.0
+		}
+,
+		"__sps" : 		{
+			"fadecheck" : 			{
+
+			}
+,
+			"b8" : 			{
+				"step4" : 				{
+					"value" : 127.0
+				}
+,
+				"step8" : 				{
+					"value" : 101.0
+				}
+,
+				"step3" : 				{
+					"value" : 4.0
+				}
+,
+				"step7" : 				{
+					"value" : 127.0
+				}
+,
+				"step2" : 				{
+					"value" : 40.0
+				}
+,
+				"step6" : 				{
+					"value" : 39.0
+				}
+,
+				"step1" : 				{
+					"value" : 121.0
+				}
+,
+				"step5" : 				{
+					"value" : 46.0
+				}
+
+			}
+
+		}
+,
+		"bpm" : 		{
+			"value" : 124.0
+		}
+,
+		"modFreq" : 		{
+			"value" : 104.0
+		}
+,
+		"release" : 		{
+			"value" : 126.0
+		}
+,
+		"__presetid" : "bongo"
+	}
+
+}
